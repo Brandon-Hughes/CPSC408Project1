@@ -7,6 +7,7 @@
 # Source Files:
     - students.py
     - StudentDB
+    - README.md
 # References:
     - In Class
     - Zybooks
