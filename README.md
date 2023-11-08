@@ -1,14 +1,15 @@
-# Name: Brandon Hughes
-# Student ID: 2405732
-# Chapman email: bhughes@chapman.edu
-# Course number and section: CPSC 408-02
-# Programming Assignment 1: Sqllite
+### Name: Brandon Hughes
+### Student ID: 2405732
+### Chapman email: bhughes@chapman.edu
+### Course number and section: CPSC 408-02
+### Programming Assignment 1: Sqllite
 
-# Source Files:
+### Source Files:
     - students.py
     - StudentDB
     - README.md
-# References:
+    
+### References:
     - In Class
     - Zybooks
     - https://www.w3schools.com/python/default.asp
